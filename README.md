@@ -10,3 +10,6 @@ Internet services, Advertising platforms, Services for business [b2b] (outsourci
 - Pandas
 - Numpy
 - Matplotlib
+
+## 4. Results
+Parameters of apartments are highly correlated between each other, such as price and area (Pearson coef. = 0.65), or price and number of rooms (Pearson coef. = 0.36). At the same time, the modern trend represents that in spite of the size the fewer rooms in the house, the lower the price is. Additionally, among top-10 localities in St. Petersburg, the largest number of ads are with an average price of 7,937,027 rubles. 
